@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Acme Corporation</title>
-    <link>acme/blog/</link>
+    <link>https://m-arrojo.github.io/acme/blog/</link>
     <description>Recent content in Blogs on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Mon, 26 Sep 2022 10:55:08 +0200</lastBuildDate><atom:link href="acme/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 10:55:08 +0200</lastBuildDate><atom:link href="https://m-arrojo.github.io/acme/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer Post</title>
-      <link>acme/blog/primer-post/</link>
+      <link>https://m-arrojo.github.io/acme/blog/primer-post/</link>
       <pubDate>Mon, 26 Sep 2022 10:55:08 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/blog/primer-post/</guid>
+      <guid>https://m-arrojo.github.io/acme/blog/primer-post/</guid>
       <description>Este es mi primer post</description>
     </item>
     
     <item>
       <title>Segundo Post</title>
-      <link>acme/blog/segundo-post/</link>
+      <link>https://m-arrojo.github.io/acme/blog/segundo-post/</link>
       <pubDate>Mon, 26 Sep 2022 10:55:08 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/blog/segundo-post/</guid>
+      <guid>https://m-arrojo.github.io/acme/blog/segundo-post/</guid>
       <description>Este es post 2</description>
     </item>
     
     <item>
       <title>Tercer Post</title>
-      <link>acme/blog/tercer-post/</link>
+      <link>https://m-arrojo.github.io/acme/blog/tercer-post/</link>
       <pubDate>Mon, 26 Sep 2022 10:55:08 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/blog/tercer-post/</guid>
+      <guid>https://m-arrojo.github.io/acme/blog/tercer-post/</guid>
       <description>Ayuda</description>
     </item>
     

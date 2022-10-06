@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mis super viajes on Acme Corporation</title>
-    <link>acme/viajes/</link>
+    <link>https://m-arrojo.github.io/acme/viajes/</link>
     <description>Recent content in Mis super viajes on Acme Corporation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="acme/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://m-arrojo.github.io/acme/viajes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pirineo</title>
-      <link>acme/viajes/pirineo/</link>
+      <link>https://m-arrojo.github.io/acme/viajes/pirineo/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/viajes/pirineo/</guid>
+      <guid>https://m-arrojo.github.io/acme/viajes/pirineo/</guid>
       <description>Viajes de verano Aragón Soy de Madrid y más castiza que el chotis. Pero tengo muy claro que me gustaría retirarme en el Pirineo. Y es que tiene todo lo que necesito: buena gastronomía, paisajes de infarto, rutas de senderismo para todos los gustos y niveles, pueblos preciosos, actividades deportivas tanto en invierno como en verano, buena gente… Por eso, cuando alguien me pregunta qué hacer en el Pirineo aragonés siempre respondo lo mismo: depende de lo que busques y del plan que lleves.</description>
     </item>
     
     <item>
       <title>Munich</title>
-      <link>acme/viajes/munich/</link>
+      <link>https://m-arrojo.github.io/acme/viajes/munich/</link>
       <pubDate>Wed, 21 Sep 2022 09:44:48 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/viajes/munich/</guid>
+      <guid>https://m-arrojo.github.io/acme/viajes/munich/</guid>
       <description>Mi viaje a Munich </description>
     </item>
     
     <item>
       <title>Paris</title>
-      <link>acme/viajes/paris/</link>
+      <link>https://m-arrojo.github.io/acme/viajes/paris/</link>
       <pubDate>Wed, 21 Sep 2022 09:44:48 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>acme/viajes/paris/</guid>
+      <guid>https://m-arrojo.github.io/acme/viajes/paris/</guid>
       <description>Mi viaje a Munich </description>
     </item>
     

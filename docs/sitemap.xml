@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>acme/peliculas/</loc>
+    <loc>https://m-arrojo.github.io/acme/peliculas/</loc>
     <lastmod>2022-10-04T12:09:58+02:00</lastmod>
   </url><url>
-    <loc>acme/institutos/</loc>
+    <loc>https://m-arrojo.github.io/acme/institutos/</loc>
     <lastmod>2022-09-29T17:24:35+02:00</lastmod>
   </url><url>
-    <loc>acme/blog/</loc>
+    <loc>https://m-arrojo.github.io/acme/blog/</loc>
     <lastmod>2022-09-26T10:55:08+02:00</lastmod>
   </url><url>
-    <loc>acme/blog/primer-post/</loc>
+    <loc>https://m-arrojo.github.io/acme/blog/primer-post/</loc>
     <lastmod>2022-09-26T10:55:08+02:00</lastmod>
   </url><url>
-    <loc>acme/blog/segundo-post/</loc>
+    <loc>https://m-arrojo.github.io/acme/blog/segundo-post/</loc>
     <lastmod>2022-09-26T10:55:08+02:00</lastmod>
   </url><url>
-    <loc>acme/blog/tercer-post/</loc>
+    <loc>https://m-arrojo.github.io/acme/blog/tercer-post/</loc>
     <lastmod>2022-09-26T10:55:08+02:00</lastmod>
   </url><url>
-    <loc>acme/viajes/</loc>
+    <loc>https://m-arrojo.github.io/acme/viajes/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>acme/viajes/pirineo/</loc>
+    <loc>https://m-arrojo.github.io/acme/viajes/pirineo/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>acme/viajes/munich/</loc>
+    <loc>https://m-arrojo.github.io/acme/viajes/munich/</loc>
     <lastmod>2022-09-21T09:44:48+02:00</lastmod>
   </url><url>
-    <loc>acme/viajes/paris/</loc>
+    <loc>https://m-arrojo.github.io/acme/viajes/paris/</loc>
     <lastmod>2022-09-21T09:44:48+02:00</lastmod>
   </url><url>
-    <loc>acme/about/</loc>
+    <loc>https://m-arrojo.github.io/acme/about/</loc>
     <lastmod>2022-09-21T08:53:45+02:00</lastmod>
   </url><url>
-    <loc>acme/</loc>
+    <loc>https://m-arrojo.github.io/acme/</loc>
     <lastmod>2022-09-21T08:53:45+02:00</lastmod>
   </url><url>
-    <loc>acme/contacto/</loc>
+    <loc>https://m-arrojo.github.io/acme/contacto/</loc>
     <lastmod>2022-09-21T08:53:45+02:00</lastmod>
   </url><url>
-    <loc>acme/categories/</loc>
+    <loc>https://m-arrojo.github.io/acme/categories/</loc>
   </url><url>
-    <loc>acme/tags/</loc>
+    <loc>https://m-arrojo.github.io/acme/tags/</loc>
   </url>
 </urlset>

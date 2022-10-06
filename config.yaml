@@ -1,4 +1,4 @@
-baseURL: "acme"
+baseURL: "https://m-arrojo.github.io/acme"
 languageCode: es-es 
 title: Acme Corporation 
 theme: basico 
@@ -14,7 +14,7 @@ author:
 menu:
   main:
     - identifier: about 
-      name: Acerca de 
+      name: Acerca
       url: /about 
       weight: 100 
     - identifier: contact
