@@ -12,4 +12,4 @@ draft: false
 
 Y ahora que hago
 
-![cpi](https://bestlifeonline.com/wp-content/uploads/sites/3/2018/06/cat-meme-48.jpg?quality=82&strip=all)
+![imagen](https://i.pinimg.com/736x/7a/eb/a3/7aeba3637a1ce6b588ced92bce8abcf5.jpg)

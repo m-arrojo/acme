@@ -1,7 +1,7 @@
-baseURL: "localhost"
+baseURL: "acme"
 languageCode: es-es 
 title: Acme Corporation 
-theme: Eclectic 
+theme: basico 
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -24,11 +24,19 @@ menu:
     - identifier: blog
       name: Blog 
       url: /blog 
-      weight: 50  
+      weight: 90 
     - identifier: viajes
       name: Viajes 
       url: /viajes
-      weight: 40       
+      weight: 80
+    - identifier: peliculas
+      name: Películas 
+      url: /peliculas
+      weight: 70
+    - identifier: institutos
+      name: Institutos
+      url: /institutos
+      weight: 60
 
 params: 
   colorPickerEnabled: true

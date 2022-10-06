@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ .Site.Params.menu.main }}
+
+<div class="container">
+    <h1 style="color:red" class="text-center"> {{ .Title }} </h1>
+    <h3 style="color:blue"> {{ .Params.subtitulo }}</h3>
+    {{ .Content }}
+    <h2>Saludos desde {{ .Params.ciudad }}</h2>
+</div>
+
+{{ $contributors := getJSON "https://api.github.com/repos/gohugoio/hugo/contributors" }}
+  {{ range $contributors }}
+    <a href="{{ .url }}">
+      <img src="{{ .avatar_url }}" alt="{{ .login }}" width="50">
+    </a>
+  {{ end }}
+
+{{ end }}
+
+
